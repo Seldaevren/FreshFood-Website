@@ -1,11 +1,14 @@
 # Fresh Food Website
-Responsive bir restaurant web sitesi geliştirildi.
+This is a fully responsive restaurant website designed to showcase a restaurant's menu, services, and contact information. The site is built with a focus on clean design, user-friendly navigation, and smooth performance across all devices.
 
-# Kullanılan Teknolojiler
+# Used Technologies
 -HTML
 -CSS
 
-# Ekran Görüntüleri
+# Frameworks 
+-Bootstrap
+
+# Preview
 
 ![](İmage/f-food.png)
 
